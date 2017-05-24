@@ -1,0 +1,28 @@
+{
+  "name": "CodugueProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "storybook": "storybook start -p 7007"
+  },
+  "dependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.0",
+    "react-native-fit-image": "^1.4.8",
+    "react-native-maps": "^0.15.2"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "16.0.0-alpha.6",
+    "@storybook/react-native": "^2.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

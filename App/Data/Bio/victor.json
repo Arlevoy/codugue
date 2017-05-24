@@ -1,0 +1,17 @@
+{
+  "login": "victor",
+  "id": 26787996,
+  "avatar_url": "https://avatars0.githubusercontent.com/u/26787996?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Arlevoy",
+  "html_url": "https://github.com/Arlevoy",
+  "followers_url": "https://api.github.com/users/Arlevoy/followers",
+  "following_url": "https://api.github.com/users/Arlevoy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Arlevoy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Arlevoy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Arlevoy/subscriptions",
+  "organizations_url": "https://api.github.com/users/Arlevoy/orgs",
+  "repos_url": "https://api.github.com/users/Arlevoy/repos",
+  "events_url": "https://api.github.com/users/Arlevoy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Arlevoy/received_events",
+}
