@@ -13,6 +13,7 @@ class Info extends Component{
     render(){
         return(
                 <View>
+                    <Text>Texte</Text>
                         
 
                 </View>
